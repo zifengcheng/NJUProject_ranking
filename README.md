@@ -126,7 +126,7 @@ python -m pyserini.eval.trec_eval -c -l 2 -m ndcg_cut.10 dl19-passage run.liswis
 
     - 如果你在实验和报告中参考了已发表的文献，请列出你所参考的相关文献。
 
-2. 我们提供了部分代码和数据，可以基于我们的[代码]（https://github.com/zifengcheng/NJUProject_ranking）进行实现。
+2. 我们提供了部分代码和数据，可以基于我们的[代码](https://github.com/zifengcheng/NJUProject_ranking)进行实现。
 
 3. 如有疑问，请联系 chengzf@smail.nju.edu.cn。
 
